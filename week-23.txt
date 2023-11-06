@@ -1,0 +1,9 @@
+Ebicycles can travel 19 miles per second for 7 seconds, but then must recover for 124 seconds.
+Trains can travel 3 miles per second for 15 seconds, but then must recover for 28 seconds.
+Jets can travel 19 miles per second for 9 seconds, but then must recover for 164 seconds.
+Helicopters can travel 19 miles per second for 9 seconds, but then must recover for 158 seconds.
+Buses can travel 13 miles per second for 7 seconds, but then must recover for 82 seconds.
+Scooters can travel 25 miles per second for 6 seconds, but then must recover for 145 seconds.
+Horses can travel 14 miles per second for 3 seconds, but then must recover for 38 seconds.
+Zeppelins can travel 3 miles per second for 16 seconds, but then must recover for 37 seconds.
+Buggys can travel 25 miles per second for 6 seconds, but then must recover for 143 seconds.
